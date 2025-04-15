@@ -1,0 +1,5 @@
+Python =3.6 
+gym=0.10.5 
+tensorflow = 1.14.0 
+numpy =1.19.5 
+pyglet = 1.5.9
